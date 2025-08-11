@@ -19,3 +19,6 @@ resize2fs /dev/mapper/pve-root
 #### Upgrade Proxmox
 https://pve.proxmox.com/wiki/Downloads#Update_a_running_Proxmox_Virtual_Environment_8.x_to_latest_8.4
 
+#### LVM Thin
+https://pve.proxmox.com/wiki/Storage:_LVM_Thin
+
